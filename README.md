@@ -228,7 +228,8 @@ In-depth post-mortems of major DeFi exploits, published on the BlockApex blog.
 ## 🚀 Open Source & Education
 
 ### 🤖 [drozer-lite](https://github.com/gdroz3r/drozer-lite)
-AI-powered smart contract auditor — pattern-level vulnerability scanner with cross-file awareness across multiple chains and languages.
+AI-powered smart contract auditor — pattern-level vulnerability scanner with cross-file awareness across multiple chains and languages. 
+[Forefy Benchmark](https://forefy.com/benchmarks/f93b6ea6-8a43-40ba-83b0-21522e62471a)
 
 ### 📘 [Canton DAML Auditor Bootcamp](https://github.com/gdroz3r/Canton-daml-auditor-bootcamp)
 Self-paced learning resource for auditors getting up to speed on Canton / DAML — the privacy-preserving smart contract platform used in regulated finance.
