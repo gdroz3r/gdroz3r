@@ -164,6 +164,7 @@ I've audited bridges, perpetuals, AMMs, stablecoin issuance protocols, LSTs, len
 | **J-CAM** | CEX Platform (Web + API) |
 | **MAICOIN** | CEX Platform (Web + API) |
 | **1money** | CEX Platform (Web + API) |
+| **CoinEx** | CEX Platform (Mobile App) |
 
 ### 🛠️ BlockApex
 
