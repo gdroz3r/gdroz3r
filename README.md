@@ -187,6 +187,11 @@ I've audited bridges, perpetuals, AMMs, stablecoin issuance protocols, LSTs, len
 | **Numio** | Mobile Application (Android) |
 | **Polkalokr** | Web Application |
 
+### 🧪 HandlePay
+| Project | Type |
+|---|---|
+| **HanldePay V0** | Mobile Application (Android & IOS) 
+
 
 ## ✍️ Articles & Writing
 
