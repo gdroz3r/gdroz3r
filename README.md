@@ -144,6 +144,12 @@ I've audited bridges, perpetuals, AMMs, stablecoin issuance protocols, LSTs, len
 | **[Axone Appchain](https://github.com/BlockApex/Audit-Reports/blob/master/Axone%20Blockchain%20-%20Final%20Audit%20Report.pdf)** *(Cosmos)* | Data Hub |
 | **[Script Network](https://github.com/BlockApex/Audit-Reports/blob/master/ScripTV%20Blockchain%20Audit%20Report.pdf)** | Video Delivery Network blockchain |
 
+### 🔑 Off-Chain Infrastructure
+
+| Service | Scope |
+|---|---|
+| **Pear Vault Service** *(Shieldfy)* | Hyperliquid Vault, Signing Service, Auth, Fund Movement |
+
 ### 🧠 Threat Modeling
 
 | Project | Scope |
